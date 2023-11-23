@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pizza",
+    "price": 10.99
+  },
+  {
+    "name": "Pasta",
+    "price": 8.99
+  },
+  {
+    "name": "Salad",
+    "price": 7.99
+  }
+]

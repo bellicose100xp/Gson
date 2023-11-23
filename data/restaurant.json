@@ -1,0 +1,1 @@
+{"name":"My Restaurant","owner":{"name":"Mike","address":{"street":"123 Main St","city":"Anytown","state":"CA","zip":"12345"}},"cook":{"name":"John","age":22,"salary":10000.0},"waiter":{"name":"Jane","age":30,"salary":8000.0}}
